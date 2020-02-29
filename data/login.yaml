@@ -1,0 +1,51 @@
+test_login:
+  login_001:
+    username: "18610453007"
+    pwd: "qq123456"
+    expect: "itheima"
+    success: True
+  login_002:
+    username: " 18610453007"
+    pwd: "qq123456"
+    expect: "itheima"
+    success: True
+  login_003:
+    username: "18610453007 "
+    pwd: "qq123456"
+    expect: "itheima"
+    success: True
+  login_006:
+    username: " "
+    pwd: "sss"
+    expect: "不能为空"
+    success: False
+  login_007:
+    username: "18610453007"
+    pwd: " "
+    expect: "不能为空"
+    success: False
+  login_008:
+    username: "18610453006"
+    pwd: "qq123456"
+    expect: "账号还未注册"
+    success: False
+  login_009:
+    username: "186104530066"
+    pwd: "qq123456"
+    expect: "账号还未注册"
+    success: False
+  login_010:
+    username: "1861045300"
+    pwd: "qq123456"
+    expect: "账号还未注册"
+    success: False
+  login_011:
+    username: "00011122212"
+    pwd: "qq123456"
+    expect: "账号还未注册"
+    success: False
+  login_012:
+    username: "itheima1"
+    pwd: "qq123456"
+    expect: "账号还未注册"
+    success: False

@@ -1,0 +1,54 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1583016425078" stop="1583016469674">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1583016425078" status="passed" stop="1583016459742">
+      <name>.Users.lgy.PycharmProjects.app.AutoCarfriend.scripts.test02_club.TestClub.test01_publish_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13691-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583016459743" status="passed" stop="1583016465404">
+      <name>.Users.lgy.PycharmProjects.app.AutoCarfriend.scripts.test02_club.TestClub.test02_publish_back</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13691-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583016465405" status="passed" stop="1583016467563">
+      <name>.Users.lgy.PycharmProjects.app.AutoCarfriend.scripts.test02_club.TestClub.test03_publish_text</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13691-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1583016467564" status="passed" stop="1583016469674">
+      <name>.Users.lgy.PycharmProjects.app.AutoCarfriend.scripts.test02_club.TestClub.test04_publish_type</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13691-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

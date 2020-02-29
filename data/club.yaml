@@ -1,0 +1,7 @@
+test_club:
+  club001:
+    mood_text: "什么能拿驾照！"
+    target_type: "晒驾照"
+    expect_msg: "是否退出此次编辑"
+    toast_msg_text: "请填写帖子内容"
+    toast_msg_type: "请选择帖子标签"
